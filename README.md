@@ -6,8 +6,8 @@
 <img src="https://i.ibb.co/kMqTKSK/Employee-management-system-icon-removebg-preview.png" alt="Loco-Cart-046ea27c" height="200" width="200">
 </p>
 <h4>
-Once a customer places an order for a set of items, firstly the web app will display the lowest price of all the items offered by a seller within the city. The main feature of bidding starts from here, i.e, for a certain time window after a user places the order the local sellers within the city can compete to offer the lowest price by offering an amount lower than the current lowest price of any seller. The seller with the lowest price on the completion of time window wins the bid and is allotted the order
-.</h4>
+Once a user lands on the homepage he/she will be able to see the list of all the employees.He/She will be able to filter out any employee irrespective of the information whether it be name,email,Job title or phone number.In addition to this user can be able to delete and edit the employee details as well.
+</h4>
 <h4>
 This would prove to be very beneficial for the customers as they would be getting their best price without roaming the entire city and would also grow a healthy competition among the local sellers
 .</h4>
