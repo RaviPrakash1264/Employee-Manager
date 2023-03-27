@@ -9,12 +9,12 @@
 Once a user lands on the homepage he/she will be able to see the list of all the employees.He/She will be able to filter out any employee irrespective of the information whether it be name,email,Job title or phone number.In addition to this user can be able to delete and edit the employee details as well.It also provides the functionality to add any number of users but user make sure that he has entered data in all the input fields otheriwse information get filtered out because of embedded custom form validation.Database of this website have used the concept of UUIDs(Universally Unique Identifiers) which will be helpful in idenitfying any employee irrespective of the similar information
 </h4>
 <h4>
-This would prove to be very beneficial for the customers as they would be getting their best price without roaming the entire city and would also grow a healthy competition among the local sellers
+This would prove to be very beneficial for the users as they have everthing that they need for a employee management at once place.
 .</h4>
 
 <h2 align="center">TECH STACK USED</h2>
 <h4 align="center">
-React JS • Node JS • Express JS • Mongo DB • Nodemailer/SendGrid
+HTML • CSS • JavaScript • TypeScript • Bootstrap • Angular • Spring Boot • MySQL
 </h4>
 <h2 align="center">CLIENT-SERVER ARCHITECTURE USED IN THE PROJECT</h2>
 <p align="center">
