@@ -10,9 +10,9 @@ import { NgForm } from '@angular/forms';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  public employees: Employee[] = [];
-  public editEmployee: Employee | undefined;
-  public deleteEmployee: Employee | undefined;
+  public employees: Employee[];
+  public editEmployee: Employee;
+  public deleteEmployee: Employee;
 
   constructor(private employeeService: EmployeeService){}
 
@@ -32,7 +32,7 @@ export class AppComponent implements OnInit {
     );
   }
 
-  public onAddEmployee(addForm: NgForm): void {
+  public onAddEmloyee(addForm: NgForm): void {
     document.getElementById('add-employee-form').click();
     this.employeeService.addEmployee(addForm.value).subscribe(
       (response: Employee) => {
@@ -47,28 +47,28 @@ export class AppComponent implements OnInit {
     );
   }
 
-  public onUpdateEmployee(employee: Employee): void {
-    this.employeeService.updateEmployee(employee).subscribe({
-      next: (response: Employee) => {
+  public onUpdateEmloyee(employee: Employee): void {
+    this.employeeService.updateEmployee(employee).subscribe(
+      (response: Employee) => {
         console.log(response);
         this.getEmployees();
       },
-      error: (error: HttpErrorResponse) => {
+      (error: HttpErrorResponse) => {
         alert(error.message);
       }
-  });
+    );
   }
 
-  public onDeleteEmployee(employeeId: number): void {
-    this.employeeService.deleteEmployee(employeeId).subscribe({
-      next: (response: void) => {
+  public onDeleteEmloyee(employeeId: number): void {
+    this.employeeService.deleteEmployee(employeeId).subscribe(
+      (response: void) => {
         console.log(response);
         this.getEmployees();
       },
-      error: (error: HttpErrorResponse) => {
+      (error: HttpErrorResponse) => {
         alert(error.message);
       }
-  });
+    );
   }
 
   public searchEmployees(key: string): void {
@@ -88,7 +88,7 @@ export class AppComponent implements OnInit {
     }
   }
 
-  public onOpenModal(mode: string, employee?: Employee ): void {
+  public onOpenModal(employee: Employee, mode: string): void {
     const container = document.getElementById('main-container');
     const button = document.createElement('button');
     button.type = 'button';
