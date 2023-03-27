@@ -1,9 +1,9 @@
 <h1 align="center" style="">Employee Manager</h1>
 <h3 align="center" style="">Contributors: <a href="https://github.com/RaviPrakash1264">@RaviPrakash1264</a></h3>
-<h4 align="center">A one stop solution for employee management.Unlike any other websites/app it provides add,delete,update,filter/search of any set of employees along with the alert prompt.
+<h4 align="center">A one stop solution for employee management.Unlike any other websites/apps it provides add,delete,update,filter/search of any set of employees along with the alert prompt and have multi-device adaptability.
 </h4>
 <p align="center">
-<img src="https://i.ibb.co/qkbt8W6/Loco-Cart-046ea27c.png" alt="Loco-Cart-046ea27c" height="200" width="200">
+<img src="[https://i.ibb.co/qkbt8W6/Loco-Cart-046ea27c.png](https://ibb.co/98YPGT7)" alt="Loco-Cart-046ea27c" height="200" width="200">
 </p>
 <h4>
 Once a customer places an order for a set of items, firstly the web app will display the lowest price of all the items offered by a seller within the city. The main feature of bidding starts from here, i.e, for a certain time window after a user places the order the local sellers within the city can compete to offer the lowest price by offering an amount lower than the current lowest price of any seller. The seller with the lowest price on the completion of time window wins the bid and is allotted the order
