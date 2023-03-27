@@ -18,7 +18,7 @@ React JS • Node JS • Express JS • Mongo DB • Nodemailer/SendGrid
 </h4>
 <h2 align="center">CLIENT-SERVER ARCHITECTURE USED IN THE PROJECT</h2>
 <p align="center">
-<img src="https://i.ibb.co/6NwQgWh/architecture.jpg" alt="Untitled" border="0" align="center>
+<img src="https://i.ibb.co/6NwQgWh/architecture.jpg" alt="Untitled" border="0">
 </p>
 <h2 align="center">LIST OF FRONTEND FEATURES/MODULES</h2>
 <p align="center">
