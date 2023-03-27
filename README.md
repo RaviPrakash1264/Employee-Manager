@@ -1,6 +1,6 @@
 <h1 align="center" style="">Employee Manager</h1>
 <h3 align="center" style="">Contributors: <a href="https://github.com/RaviPrakash1264">@RaviPrakash1264</a></h3>
-<h4 align="center">A bidding based ecommerce system which unlike all other ecommerce websites/apps provides the customer the luxury of getting the best price of any set of products in his/her city using the bidding feature.
+<h4 align="center">A one stop solution for employee management.Unlike any other websites/app it provides add,delete,update,filter/search of any set of employees along with the alert prompt.
 </h4>
 <p align="center">
 <img src="https://i.ibb.co/qkbt8W6/Loco-Cart-046ea27c.png" alt="Loco-Cart-046ea27c" height="200" width="200">
