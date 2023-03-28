@@ -62,31 +62,24 @@ HTML • CSS • JavaScript • TypeScript • Bootstrap • Angular • Spring 
 
 <ul>
 <li>
-W3 SCHOOLS
-https://www.w3schools.com/
+ANGULAR CLI DOCUMENTATION
+https://angular.io/cli
 
 <li>
-SEND GRID DOCUMENTATION
-https://github.com/sendgrid/sendgrid-nodejs/tree/main/packages/mail
+SPRING BOOT DOCUMENTATION
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 </li>
 <li>
 STACKOVERFLOW FOR FIXING BUGS
 https://stackoverflow.com/
 </li>
 <li>
-MATERIAL-UI
-https://material-ui.com/
+BOOTSTRAP CARDS
+https://www.bootdey.com/snippets/view/bs4-card-widget
 </li>
 <li>
-FETCH API
-https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+CROSS-ORIGIN RESOURCE SHARING(CORS)
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 </li>
 <li>
-REACT HOOKS
-https://reactjs.org/docs/hooks-intro.html
-</li>
-<li>
-EXPRESS JS DOCUMENTATION
-https://expressjs.com/en/guide/routing.html
-</li>
 </ul>
