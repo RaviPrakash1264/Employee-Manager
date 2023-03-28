@@ -30,8 +30,9 @@ HTML • CSS • JavaScript • TypeScript • Bootstrap • Angular • Spring 
 </p>
 <h2 align="center">SCREENSHOTS</h2>
 <h3>1. LANDING PAGE</h3>
-<img src="https://i.ibb.co/W521mkc/Screenshot-2023-03-28-230646.jpg" alt="Picture2" border="0">
-
+<p align="center">
+<img src="https://i.ibb.co/dfGTXhW/Screenshot-2023-03-28-233944.jpg" alt="Picture2" border="0">
+</p>
 <h3>2. PRODUCTS</h3>
 <img src="https://i.ibb.co/2SXvq2f/Picture4.jpg" alt="Picture4" border="0">
 
