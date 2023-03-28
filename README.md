@@ -46,12 +46,18 @@ HTML • CSS • JavaScript • TypeScript • Bootstrap • Angular • Spring 
 <p align="center">
 <img src="https://i.ibb.co/pZfP849/delete.jpg" alt="Picture5" border="0">
 </p>
-<h3>5. 3-STEP PLACE ORDER FEATURE</h3>
-<img src="https://i.ibb.co/3sB2Dhh/Picture7.png" alt="Picture7" border="0">
+<h3>5. FORM VALIDATION(SAVE CHANGES BUTTON NOT ACTIVE UNTILL ALL DETAILS GOT FILLED)</h3>
+<p align="center">
+<img src="https://i.ibb.co/Sfj0tfM/form-validation.jpg" border="0">
+</p>
+<h3>6. SEARCH EMPLOYEES ONE WITH NAME AND OTHER WITH JOB TITLE</h3>
+<p align="center">
+<img src="https://i.ibb.co/C6Nb1Yk/search1.jpg" alt="Picture6" border="0">
+</p>
 
-<h3>6. BIDDING PAGE WHERE THE SELLERS COMPETE TO WIN AN ORDER AND THIS IS WHERE THE MAIN ACTION TAKES PLACE</h3>
-<img src="https://i.ibb.co/VQLpJtv/Picture6.png" alt="Picture6" border="0">
-
+<p align="center">
+<img src="https://i.ibb.co/1vxVdCD/search2.jpg" alt="Picture6" border="0">
+</p>
 <h2 align="center">REFERENCES</h2>
 
 <ul>
