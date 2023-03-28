@@ -81,5 +81,4 @@ https://www.bootdey.com/snippets/view/bs4-card-widget
 CROSS-ORIGIN RESOURCE SHARING(CORS)
 https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 </li>
-<li>
 </ul>
