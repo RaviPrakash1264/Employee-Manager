@@ -33,15 +33,19 @@ HTML • CSS • JavaScript • TypeScript • Bootstrap • Angular • Spring 
 <p align="center">
 <img src="https://i.ibb.co/dfGTXhW/Screenshot-2023-03-28-233944.jpg" alt="Picture2" border="0">
 </p>
-<h3>2. PRODUCTS</h3>
-<img src="https://i.ibb.co/2SXvq2f/Picture4.jpg" alt="Picture4" border="0">
+<h3>2. ADD EMPLOYEES</h3>
+<p align="center">
+<img src="https://i.ibb.co/LQW6PNy/add.jpg" alt="Picture2" border="0">
+</p>
 
-<h3>3. PRODUCT DESCRIPTION</h3>
-<img src="https://i.ibb.co/wRN7s76/Picture8.png" alt="Picture8" border="0">
-
-<h3>4. SELLER PROFILE</h3>
-<img src="https://i.ibb.co/jJk9Kyf/Picture5.png" alt="Picture5" border="0">
-
+<h3>3. EDIT EMPLOYEES DETAILS</h3>
+<p align="center">
+<img src="https://i.ibb.co/PxMhZww/edit.jpg" alt="Picture8" border="0">
+</p>
+<h3>4. DELETE EMPLOYEES DETAILS</h3>
+<p align="center">
+<img src="https://i.ibb.co/pZfP849/delete.jpg" alt="Picture5" border="0">
+</p>
 <h3>5. 3-STEP PLACE ORDER FEATURE</h3>
 <img src="https://i.ibb.co/3sB2Dhh/Picture7.png" alt="Picture7" border="0">
 
